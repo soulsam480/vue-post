@@ -75,9 +75,9 @@ export default{
     methods:{
         run(){
             this.post({
-				action: the action URL of your form ,
-				target: window of action (expected: _self, _blank),
-				params: a json object of input values
+			action: the action URL of your form ,
+			target: window of action (expected: _self, _blank),
+			params: a json object of input values
             })
         }
     }
