@@ -1,0 +1,19 @@
+{
+  "name": "vue-post",
+  "version": "0.1.0",
+  "description": "send HTML Post requests from javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulsam480/vue-post.git"
+  },
+  "author": "soulsam480",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soulsam480/vue-post/issues"
+  },
+  "homepage": "https://github.com/soulsam480/vue-post#readme"
+}
